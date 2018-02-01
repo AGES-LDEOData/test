@@ -1,0 +1,90 @@
+{
+    "Iso17.9924": {
+        "error": 0.0, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": 0.0
+    }, 
+    "Iso18.9924": {
+        "error": 0.0, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": -0.0219786167
+    }, 
+    "Ne20AX": {
+        "error": 0.0, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": -0.0149536133
+    }, 
+    "Ne20L2": {
+        "error": 0.9662848058127762, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": 13.136606589826743
+    }, 
+    "Ne21H1": {
+        "error": 0.0, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": -0.0207602978
+    }, 
+    "Ne21L2": {
+        "error": 0.05142504466384544, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": 0.048269472064124186
+    }, 
+    "Ne22H2": {
+        "error": 0.0, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": -0.00264286995
+    }, 
+    "Ne22L2": {
+        "error": 13.800912430598217, 
+        "error_type": null, 
+        "filter_outliers_dict": {
+            "filter_outliers": false, 
+            "iterations": 1, 
+            "std_devs": 2
+        }, 
+        "fit": "linear", 
+        "value": 129.76950283183012
+    }
+}
