@@ -1,0 +1,64 @@
+{
+    "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)", 
+    "aliquot": 84, 
+    "analysis_type": "unknown", 
+    "analyst_name": "root", 
+    "comment": "", 
+    "commit": "f444a8c88a0112c9d5127e6ee87821b20d4e54e7", 
+    "conditionals": null, 
+    "data_reduction_software": "Pychron18.2(DVC0.1)", 
+    "detectors": {
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [], 
+        "lab_pneumatics": [], 
+        "lab_temperatures": []
+    }, 
+    "experiment_queue_name": "NeTest", 
+    "extraction": "ngx_air_x1.py", 
+    "identifier": "ne-01-N", 
+    "increment": null, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 4, 
+    "isotopes": {
+        "Ne20": {
+            "detector": "L2", 
+            "name": "Ne20"
+        }, 
+        "Ne21": {
+            "detector": "L2", 
+            "name": "Ne21"
+        }, 
+        "Ne22": {
+            "detector": "L2", 
+            "name": "Ne22"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Ngx", 
+    "material": "Gas", 
+    "measurement": "ngx_ne.py", 
+    "post_equilibration": "ngx_pump_air.py", 
+    "post_measurement": "ngx_pump_ms.py", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "test", 
+    "sample": "ne", 
+    "source": {
+        "emission": 1797.58, 
+        "trap": 199.93962
+    }, 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2018-04-11T09:30:35.115191", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "95d5f909-835c-4ed8-a8e2-c6973d17ae16", 
+    "whiff_result": null
+}
