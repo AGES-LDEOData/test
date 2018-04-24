@@ -1,35 +1,47 @@
 {
     "Ne20": {
-        "error": 22.618548141862455, 
-        "error_type": "SEM", 
+        "error": 104.75908138000607,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 10319.376506768931
-    }, 
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0
+        },
+        "fit": "Linear",
+        "fn": 100,
+        "include_baseline_error": false,
+        "n": 100,
+        "reviewed": true,
+        "value": 10319.376509644013
+    },
     "Ne21": {
-        "error": 0.6831474187043163, 
-        "error_type": "SEM", 
+        "error": 5.649221293798812,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 31.367002053484608
-    }, 
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0
+        },
+        "fit": "Average",
+        "fn": 300,
+        "include_baseline_error": false,
+        "n": 300,
+        "reviewed": true,
+        "value": 31.096666666666668
+    },
     "Ne22": {
-        "error": 7.828391780414522, 
-        "error_type": "SEM", 
+        "error": 35.17374147193668,
+        "error_type": "SEM",
         "filter_outliers_dict": {
-            "filter_outliers": false, 
-            "iterations": 1, 
-            "std_devs": 2
-        }, 
-        "fit": "linear", 
-        "value": 1153.0332745304381
+            "filter_outliers": false,
+            "iterations": 0,
+            "std_devs": 0
+        },
+        "fit": "Linear",
+        "fn": 100,
+        "include_baseline_error": false,
+        "n": 100,
+        "reviewed": true,
+        "value": 1153.0332744566174
     }
 }
