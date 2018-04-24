@@ -1,0 +1,14 @@
+{
+    "L2": {
+        "center_dac": 23.252092785571165, 
+        "center_signal": 1104.548227166171, 
+        "high_dac": 23.270128857715456, 
+        "high_signal": 191.2279305816354, 
+        "low_dac": 23.234056713426877, 
+        "low_signal": 202.53214519410722, 
+        "points": "QbllwwAAAABBuXBbAAAAAEG5evIAAAAAQbmFigAAAABBuZAiAAAAAEG5mroAAAAAQbmlUgAAAABBua/qAAAAAEG5uoEAAAAAQbnFGQAAAABBuc+xP4AAAEG52klBmAAAQbnk4UP+gABBue95RIIgAEG5+hBEhsAAQboEqESBAABBug9ARITgAEG6GdhEgAAAQbokcEPQgABBui8IQiAAAEG6OZ9AAAAAQbpENwAAAABBuk7PP4AAAEG6WWcAAAAAQbpj/wAAAABBum6XAAAAAEG6eS8AAAAAQbqDxgAAAABBuo5eAAAAAEG6mPYAAAAA"
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "L2", 
+    "reference_isotope": "Ne22"
+}
