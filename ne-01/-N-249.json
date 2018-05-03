@@ -53,12 +53,12 @@
     "sample": "ne", 
     "source": {
         "emission": 1797.58, 
-        "trap": 200.00456
+        "trap": 200.00873
     }, 
     "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
-    "timestamp": "2018-05-03T16:53:59.170511", 
+    "timestamp": "2018-05-03T19:05:35.652041", 
     "tripped_conditional": null, 
     "username": "root", 
-    "uuid": "b39d3a41-255b-42d8-b1ce-50e9b22e5f09", 
+    "uuid": "a0519798-dddc-4b19-94eb-3e63c4295d71", 
     "whiff_result": null
 }
