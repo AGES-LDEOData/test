@@ -1,0 +1,45 @@
+{
+    "baselines": [
+        {
+            "blob": "QtI24gAAAABC0jbiAAAAAELSNuIAAAAAQtR8RAAAAABC1HxEAAAAAELUfEQAAAAAQta3+wAAAABC1rf7AAAAAELWt/sAAAAAQtj1SwAAAABC2PVLAAAAAELY9UsAAAAAQtsuuQAAAABC2y65AAAAAELbLrkAAAAAQt1owAAAAABC3WjAAAAAAELdaMAAAAAAQt+hUAAAAABC36FQAAAAAELfoVAAAAAAQuHbvwAAAABC4du/AAAAAELh278AAAAAQuQUlgAAAABC5BSWAAAAAELkFJYAAAAAQuZNDAAAAABC5k0MAAAAAELmTQwAAAAAQuiFoAAAAABC6IWgAAAAAELohaAAAAAA", 
+            "detector": "L2"
+        }
+    ], 
+    "commit": "8a042f45dd37aa37f705489b9c0b48527df80082", 
+    "encoding": "base64", 
+    "format": ">ff", 
+    "signals": [
+        {
+            "blob": "Qi0TtkIEAABCMYOEQdgAAEI2CuVCFAAAQjqATkIEAABCPvNUQdAAAEJDZ+lCAAAAQkfpD0IgAABCTHB6QdAAAEJQ8J5BuAAAQlVnAEIUAABCWedpQcAAAEJeXbtCCAAAQmLS5UIMAABCZ0W8QdgAAEJrycRBsAAAQnBHZUHYAABCdL5PQfgAAEJ5NcRB2AAAQn2qsEHYAABCgQ8rQcgAAEKDSVBBuAAAQoWLS0IEAABCh8W7QigAAEKKAUBByAAAQow7ekIUAABCjnxqQfAAAEKQtZdCAAAAQpLxLUIYAABClSs6QhgAAEKXbupBuAAA", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "QsadUUSIQAA=", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "QqTOkUWdGABCpxNTRaPgAEKpWM1FobgAQqueAkWksABCrehYRaiIAEKwM8RFpSgAQrJ31kWnKABCtL1+RaxoAEK3ANNFqSAAQrlLnEWsWAA=", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ], 
+    "sniffs": [
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "P5HNVkSZ4ABAD5Y5RTYwAECHvE9FTRAAQKtl0kV14ABA65ToRYd4AEEHmhdFlHgAQRmRx0WTcABBK2hpRZnwAEE9GydFnHgAQU8JvkWdYABBYMerRZsgAEFyh8VFn8AAQYIwCkWlkABBixcLRaPAAEGUBQNFo/gAQZzeTUWmSABBpcyhRadQAEGupktFo4AAQbeFr0Wj8ABBwGOARaVIAEHJO/JFpRAAQdITq0Wr8ABB2v6QRahQAEHj2MVFpigAQe0H6EWmqABB9eIORaY4AEH+u/tFokAAQgdneUWlyABCC93WRapoAEIQS/5FruAA", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ]
+}
