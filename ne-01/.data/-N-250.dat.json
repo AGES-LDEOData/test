@@ -1,0 +1,45 @@
+{
+    "baselines": [
+        {
+            "blob": "QxNBzQAAAABDE0HNAAAAAEMTQc0AAAAAQxRkowAAAABDFGSjAAAAAEMUZKMAAAAAQxWD8wAAAABDFYPzAAAAAEMVg/MAAAAAQxajdwAAAABDFqN3AAAAAEMWo3cAAAAAQxfAHAAAAABDF8AcAAAAAEMXwBwAAAAAQxjcewAAAABDGNx7AAAAAEMY3HsAAAAAQxn8XQAAAABDGfxdAAAAAEMZ/F0AAAAAQxsapwAAAABDGxqnAAAAAEMbGqcAAAAA", 
+            "detector": "L2"
+        }
+    ], 
+    "commit": "0c579761d0ee56989c67de04409886743dfb2d2b", 
+    "encoding": "base64", 
+    "format": ">ff", 
+    "signals": [
+        {
+            "blob": "QigFlkIQAABCLMQNQggAAEIxSkpB6AAAQjW8dEHYAABCOjliQcAAAEI+sgFByAAAQkM91kHwAABCR7/WQdgAAEJMSRpB4AAAQlC8yUIIAABCVS8BQZAAAEJZoZJBmAAAQl4lg0G4AABCYqbzQcgAAEJnJnxCFAAAQmuyOkHgAABCcCWaQgAAAEJ0oVhB+AAAQnkSf0HYAABCfZJuQhAAAEKBCQ1BuAAAQoNC/EHoAABChYaYQgQAAEKHxltCEAAAQooI00HwAABCjEhmQcgAAEKOgxlB+AAAQpDEBkH4AABCkwFDQggAAEKVRbVCOAAAQuZWBUH4AABC6J5uQegAAELq5p5B+AAAQu0xLUHYAABC73zrQgAAAELxw8dB+AAAQvQMcUIEAABC9mFHQgAAAEL4n5ZB2AAAQvrnJEIAAABC/TAxQdgAAEL/eG1CFAAAQwDf9EIYAABDAgcnQbgAAEMDLTxB6AAAQwRRrEHoAABDBXXXQagAAEMGnrVCEAAAQwfEKUGgAABDCOeUQeAAAEMKC7FB4AAAQwsyvEIIAABDDFhuQgwAAEMNe4pBwAAA", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "QsRiuESBAABCxp5kRIzgAELI3n5EjCAAQssps0SLYABCzXPoRIigAELPuqNEhqAAQtIERESGYABC1EISRIHgAELWkqVEgmAAQtjmPUSC4AA=", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "QqKwqUZPVABCpO0oRlJ4AEKnM/VGT1gAQql5YUZSYABCq7SrRk7UAEKt+a1GU6gAQrBAqUZPaABCsn1RRlPAAEK0wrdGTKAAQrcIpEZP9AA=", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ], 
+    "sniffs": [
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "P467kkUNgABADnAJRa+IAEBV+DxF2ygAQI6d9EXyaABAsgdkRgf4AEDVpClGEqAAQPkJhUYYfABBDnFARiLcAEEgKPRGJJgAQTHruEYoJABBQ5z5RjEYAEFjwytGNDgAQXWDckY8LABBg5plRj1EAEGMd7NGQZwAQZVkQEZEvABBnkGXRkd8AEGnGBdGRmAAQbclekZLdABBwBpSRk/cAEHJE1ZGUJQAQdIIb0ZStABB2viWRlEsAEHj1QVGVZQAQeyyZEZTWABB9ZVvRlfMAEH+gtFGWGQAQgO6mUZYAABCCClmRlf0AEIMmplGW5gA", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ]
+}
