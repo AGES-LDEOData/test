@@ -1,7 +1,7 @@
 {
     "beam_diameter": "",
     "cleanup_duration": 180.0,
-    "commit": "7bb8b3eaadcb2ba8a245db39ddfd06b9aa0491af",
+    "commit": "77e4d34386c1adeac804529b5d124cc8d0001d36",
     "extract_device": "Extract Device",
     "extract_duration": 0.0,
     "extract_units": "",

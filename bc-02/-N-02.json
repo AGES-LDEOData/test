@@ -5,7 +5,7 @@
     "analyst_name": "root",
     "collection_version": "1.0:1.0",
     "comment": "",
-    "commit": "7bb8b3eaadcb2ba8a245db39ddfd06b9aa0491af",
+    "commit": "77e4d34386c1adeac804529b5d124cc8d0001d36",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -83,13 +83,13 @@
     "repository_identifier": "test",
     "sample": "blank APIS-FC",
     "source": {
-        "emission": 1660.29,
-        "trap": 200.02057
+        "emission": 1659.11,
+        "trap": 200.02171
     },
     "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-    "timestamp": "2018-08-01T16:57:19.384530",
+    "timestamp": "2018-08-02T15:29:05.870714",
     "tripped_conditional": null,
     "username": "root",
-    "uuid": "1bf2eaca-cbf9-4bc2-8dc9-75429f63beb8",
+    "uuid": "c8e81f62-e6d0-4129-9285-5c300b639a20",
     "whiff_result": null
 }
